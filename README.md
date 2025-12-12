@@ -1,6 +1,6 @@
-# WordPress Publisher for Obsidian
+# WordPress Publisher for notes
 
-Publish your Obsidian notes directly to WordPress as posts or pages.
+Publish your notes directly to WordPress as posts or pages.
 
 ## Features
 
@@ -41,7 +41,7 @@ npm run dev
 
 1. In WordPress, go to **Users → Profile**
 2. Scroll to **Application Passwords**
-3. Enter a name (e.g., "Obsidian Publisher")
+3. Enter a name (e.g., "Note Publisher")
 4. Click **Add New Application Password**
 5. Copy the generated password (you won't see it again!)
 

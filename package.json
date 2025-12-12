@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-wp-publisher",
+	"name": "bk-publisher",
 	"version": "1.0.0",
-	"description": "Publish Obsidian notes to WordPress as posts or pages",
+	"description": "Publish your notes directly to WordPress as posts or pages.",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",

@@ -3,7 +3,7 @@
 	"name": "WordPress Publisher",
 	"version": "1.0.0",
 	"minAppVersion": "1.0.0",
-	"description": "Publish Obsidian notes to WordPress as posts or pages",
+	"description": "Publish your notes directly to WordPress as posts or pages.",
 	"author": "Bill A. King",
 	"authorUrl": "https://github.com/billaking",
 	"isDesktopOnly": false

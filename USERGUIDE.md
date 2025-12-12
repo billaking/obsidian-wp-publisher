@@ -1,6 +1,6 @@
-# WordPress Publisher for Obsidian - User Guide
+# WordPress Publisher for Notes - User Guide
 
-Publish your Obsidian notes directly to WordPress as posts or pages.
+Publish your notes directly to WordPress as posts or pages.
 
 ---
 
