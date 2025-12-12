@@ -1,9 +1,9 @@
 {
   "sites": [
     {
-      "name": "Greater Life",
-      "url": "https://www.billaking.com",
-      "username": "billaking_yan3s3",
+      "name": "Sample Greater Life",
+      "url": "https://www.greaterlife.com",
+      "username": "john_yan3s3",
       "applicationPassword": "Bfat zIYg im8M iD59 RGti jgUB",
       "isDefault": true
     }
